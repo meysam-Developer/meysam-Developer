@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  meysam
 - 👀 I’m interested in programming (laravel / react)
-- 💞️ I’m looking to collaborate on front-end developer (react js)
+- 💞️ I’m looking to collaborate on front-end developer (laravel/React js)
 - 📫 How to reach me (meysamesmaili220@gmail.com or +98 9396860421)
 
 <!---
